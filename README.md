@@ -12,9 +12,10 @@ Je suis un développeur full stack
 
 ## Projets
 - 🎬 vidéo 1 : Youtube home page | [Video](https://youtu.be/AVfpW0LXiVo) | [Code](/projects/youtube/)
-- 🎬 vidéo 2 : Eggs Simulator | [Video](https://youtu.be/UJZnaMPQZG0) | [Code](/projects/oeufs%20simulator/)
+- 🎬 vidéo 2 : Eggs Simulator | [Video](https://youtu.be/UJZnaMPQZG0) | [Code](/projects/oeufs%20simulator/) | [Result](https://eggsimulator-tai-studio.netlify.app/)
+
 - 🎬 vidéo 3 : Console en folie | [Video](https://youtu.be/gvKG3E54ZEk) | [Code](/projects/hacker/)
-- 🎬 vidéo 4 : Autruche | [Video](https://youtu.be/QakrAVOTeHQ) | [Code](/projects/autruche/)
+- 🎬 vidéo 4 : Autruche | [Video](https://youtu.be/QakrAVOTeHQ) | [Code](/projects/autruche/) | [Result](https://autruche-tai-studio.netlify.app/)
 
 ## Authors
 
